@@ -1,0 +1,943 @@
+<?php
+/**
+* PageCarton Page Generator
+*
+* LICENSE
+*
+* @category PageCarton
+* @package /
+* @generated Ayoola_Page_Editor_Layout
+* @copyright  Copyright (c) PageCarton. (http://www.PageCarton.com)
+* @license    http://www.PageCarton.com/license.txt
+* @version $Id: includes.php	Saturday 23rd of June 2018 06:56:38 AM	sodiq.akinjobi@gmail.com $ 
+*/
+//	Page Include Content
+
+							if( Ayoola_Loader::loadClass( 'Ayoola_Page_Editor_Text' ) )
+							{
+								
+$_620c627ce3b04be196bff84294047b21 = new Ayoola_Page_Editor_Text( array (
+  'editable' => '
+<div class="about" id="about">
+		<div class="container">
+		<div class="col-md-4 about-left ">
+					<img src="/pc/layout/pc_layout_introwebtheme/images/ab2.jpg" class="img-responsive" alt="">
+</div>
+				<div class="col-md-7 about-right">
+				<div class="about-me">
+				<h2>Aja Lekoko</h2>
+				<h4>Web Design &amp; Web Developer</h4>
+				</div>
+				<div class="w3layouts_more-buttn">
+				<p>Lorem ipsum dolor sit amet, consectetuer
+				adipiscing elit. Aenean commodo ligula eget dolor.
+				Aenean massa. Cum sociis natoque penatibus
+				adipiscing elit. Aenean commodo ligula eget dolor.</p>
+				<div class="buttn-about">
+								<a href="#services">Read More</a>
+							</div>
+							<div class="buttom-social-grids">
+
+					<ul>
+<li><a href="#"><span class="fa fa-facebook">&nbsp;</span></a></li>
+						<li><a href="#"><span class="fa fa-twitter">&nbsp;</span></a></li>
+						<li><a href="#"><span class="fa fa-rss">&nbsp;</span></a></li>
+						<li><a href="#"><span class="fa fa-vk">&nbsp;</span></a></li>
+					</ul>
+</div>
+							</div>
+							
+				</div>
+				<div class="clearfix"> </div>
+				<div class="my-ser-info">
+				<div class="col-md-5 my-datas">
+				<h3>My Personal Data</h3>
+				<ul class="address">
+<li>
+							<ul class="address-text ">
+<li><b>Name </b></li>
+								<li>:Aja Lekoko</li></ul>
+</li>
+						<li>
+							<ul class="address-text ">
+<li><b>D.O.B </b></li>
+								<li>:23-06-1989</li>
+							</ul>
+</li>
+						<li>
+							<ul class="address-text">
+<li><b>PHONE </b></li>
+								<li>:+00 111 222 3333</li>
+							</ul>
+</li>
+						<li>
+							<ul class="address-text">
+<li><b>ADDRESS </b></li>
+								<li>:756 hill,south pole,U.S.A</li>
+							</ul>
+</li>
+						<li>
+							<ul class="address-text">
+<li><b>E-MAIL </b></li>
+								<li><a href="mailto:example@mail.com">: mail@example.com</a></li>
+							</ul>
+</li>
+						<li>
+							<ul class="address-text">
+<li><b>WEBSITE </b></li>
+								<li><a href="mailto:example@mail.com">: www.myresume.com</a></li>
+							</ul>
+</li>
+					</ul>
+<div class="hire-w3lgrids">
+						<a href="#" class="there-more"> 
+							Download				
+						</a> 
+						<a href="#" class="there-more"> 
+						Hire Me
+						</a>
+					</div>
+				</div>
+				<div class="col-md-7 aboutmy-services">
+								
+								<div class="col-md-6 col-sm-6 col-xs-6 about-ser-grid">
+								<div class="about-gap">
+								<span class="fa fa-television" aria-hidden="true">&nbsp;</span>
+								<h3>web Design</h3>
+								<p>Lorem ipsum dolor sit amet, consectetuer</p>
+								</div>
+								<div class="clearfix"> </div>
+								</div>
+								<div class="col-md-6 col-sm-6 col-xs-6 about-ser-grid">
+								<div class="about-gap clr-green">
+								<span class="fa fa-database" aria-hidden="true">&nbsp;</span>								<h3>UI/UX Design</h3>
+                           <p>Lorem ipsum dolor sit amet, consectetuer</p>
+								</div>
+								<div class="clearfix"> </div>
+								</div>
+								<div class="col-md-6 col-sm-6 col-xs-6 about-ser-grid">
+								<div class="about-gap clr-green">
+								<span class="fa fa-picture-o" aria-hidden="true">&nbsp;</span>
+								<h3>Photoshop</h3>
+								<p>Lorem ipsum dolor sit amet, consectetuer</p>
+								</div>
+								<div class="clearfix"> </div>
+								</div>
+								<div class="col-md-6 col-sm-6 col-xs-6 about-ser-grid">
+								<div class="about-gap">
+								<span class="fa fa-mobile" aria-hidden="true">&nbsp;</span>
+								<h3>Web Design</h3>
+								<p>Lorem ipsum dolor sit amet, consectetuer</p>
+								</div>
+								<div class="clearfix"> </div>
+								</div>
+							</div>	
+							<div class="clearfix"> </div>
+							</div>
+							<div class="clearfix"> </div>
+
+</div>
+</div>
+
+',
+  'preserved_content' => '<div class="about" id="about">
+		<div class="container">
+		<div class="col-md-4 about-left ">
+					<img src="/pc/layout/pc_layout_introwebtheme/images/ab2.jpg" class="img-responsive" alt="">
+</div>
+				<div class="col-md-7 about-right">
+				<div class="about-me">
+				<h2>Kelly Jhon </h2>
+				<h4>Web Design &amp; Web Developer</h4>
+				</div>
+				<div class="w3layouts_more-buttn">
+				<p>Lorem ipsum dolor sit amet, consectetuer
+				adipiscing elit. Aenean commodo ligula eget dolor.
+				Aenean massa. Cum sociis natoque penatibus
+				adipiscing elit. Aenean commodo ligula eget dolor.</p>
+				<div class="buttn-about">
+								<a href="#services">Read More</a>
+							</div>
+							<div class="buttom-social-grids">
+
+					<ul>
+<li><a href="#"><span class="fa fa-facebook">&nbsp;</span></a></li>
+						<li><a href="#"><span class="fa fa-twitter">&nbsp;</span></a></li>
+						<li><a href="#"><span class="fa fa-rss">&nbsp;</span></a></li>
+						<li><a href="#"><span class="fa fa-vk">&nbsp;</span></a></li>
+					</ul>
+</div>
+							</div>
+							
+				</div>
+				<div class="clearfix"> </div>
+				<div class="my-ser-info">
+				<div class="col-md-5 my-datas">
+				<h3>My Personal Data</h3>
+				<ul class="address">
+<li>
+							<ul class="address-text ">
+<li><b>Name </b></li>
+								<li>:Kelly Jhon</li>
+							</ul>
+</li>
+						<li>
+							<ul class="address-text ">
+<li><b>D.O.B </b></li>
+								<li>:23-06-1989</li>
+							</ul>
+</li>
+						<li>
+							<ul class="address-text">
+<li><b>PHONE </b></li>
+								<li>:+00 111 222 3333</li>
+							</ul>
+</li>
+						<li>
+							<ul class="address-text">
+<li><b>ADDRESS </b></li>
+								<li>:756 hill,south pole,U.S.A</li>
+							</ul>
+</li>
+						<li>
+							<ul class="address-text">
+<li><b>E-MAIL </b></li>
+								<li><a href="mailto:example@mail.com">: mail@example.com</a></li>
+							</ul>
+</li>
+						<li>
+							<ul class="address-text">
+<li><b>WEBSITE </b></li>
+								<li><a href="mailto:example@mail.com">: www.myresume.com</a></li>
+							</ul>
+</li>
+					</ul>
+<div class="hire-w3lgrids">
+						<a href="#" class="there-more"> 
+							Download				
+						</a> 
+						<a href="#" class="there-more"> 
+						Hire Me
+						</a>
+					</div>
+				</div>
+				<div class="col-md-7 aboutmy-services">
+								
+								<div class="col-md-6 col-sm-6 col-xs-6 about-ser-grid">
+								<div class="about-gap">
+								<span class="fa fa-television" aria-hidden="true">&nbsp;</span>
+								<h3>web Design</h3>
+								<p>Lorem ipsum dolor sit amet, consectetuer</p>
+								</div>
+								<div class="clearfix"> </div>
+								</div>
+								<div class="col-md-6 col-sm-6 col-xs-6 about-ser-grid">
+								<div class="about-gap clr-green">
+								<span class="fa fa-database" aria-hidden="true">&nbsp;</span>								<h3>UI/UX Design</h3>
+                           <p>Lorem ipsum dolor sit amet, consectetuer</p>
+								</div>
+								<div class="clearfix"> </div>
+								</div>
+								<div class="col-md-6 col-sm-6 col-xs-6 about-ser-grid">
+								<div class="about-gap clr-green">
+								<span class="fa fa-picture-o" aria-hidden="true">&nbsp;</span>
+								<h3>Photoshop</h3>
+								<p>Lorem ipsum dolor sit amet, consectetuer</p>
+								</div>
+								<div class="clearfix"> </div>
+								</div>
+								<div class="col-md-6 col-sm-6 col-xs-6 about-ser-grid">
+								<div class="about-gap">
+								<span class="fa fa-mobile" aria-hidden="true">&nbsp;</span>
+								<h3>Web Design</h3>
+								<p>Lorem ipsum dolor sit amet, consectetuer</p>
+								</div>
+								<div class="clearfix"> </div>
+								</div>
+							</div>	
+							<div class="clearfix"> </div>
+							</div>
+							<div class="clearfix"> </div>
+
+</div>
+</div>
+
+',
+  'url_prefix' => '/pc',
+  'phrase_to_replace' => '',
+  'advanced_parameter_value' => 
+  array (
+    0 => '',
+  ),
+  'wrapper_name' => '',
+  '' => '',
+) );
+
+							}
+							else
+							{
+								
+$_620c627ce3b04be196bff84294047b21 = null;
+
+							}
+							
+							if( Ayoola_Loader::loadClass( 'Ayoola_Page_Editor_Text' ) )
+							{
+								
+$_76fd2d9aece9c3c22ae2ed836fbaddaf = new Ayoola_Page_Editor_Text( array (
+  'editable' => '
+<div class="services" id="services">
+		<div class="container">
+			<h3 class="title clr">Services</h3>
+						<div class="banner-bottom-girds">
+
+<div class="col-md-5 my-ser-right">
+				<div class="col-md-6 col-sm-6 col-xs-6 stats-grid stats-grid-1">
+					<div class="ser-icone"> 
+					<span class="fa fa-users font" aria-hidden="true">&nbsp;</span>
+				
+					<div class="counter">3500</div>
+					<div class="stat-info-w3ls">
+						<h4>Clients</h4>
+					</div>
+						</div>
+				</div>
+				<div class="col-md-6 col-sm-6 col-xs-6 stats-grid stats-grid-2">
+					<div class="ser-icone clr-green"> 
+					<span class="fa fa-coffee font" aria-hidden="true">&nbsp;</span>
+					<div class="counter">650</div>
+					<div class="stat-info-w3ls">
+						<h4>Coffee</h4>
+					</div>
+					</div>
+				</div>
+				<div class="col-md-6 col-sm-6 col-xs-6 stats-grid stats-grid-3">
+					<div class="ser-icone clr-green">
+					<span class="fa fa-trophy font" aria-hidden="true">&nbsp;</span>
+					
+					<div class="counter">1021</div>
+					<div class="stat-info-w3ls">
+						<h4>Awards</h4>
+					</div>
+					</div>
+				</div>
+				<div class="col-md-6 col-sm-6 col-xs-6 stats-grid stats-grid-4">
+					<div class="ser-icone"> <span class="fa fa-lightbulb-o font" aria-hidden="true">&nbsp;</span>
+					
+					<div class="counter">1010</div>
+					<div class="stat-info-w3ls">
+						<h4>Ideas</h4>
+					</div>
+					</div>
+				</div>
+				<div class="clearfix"></div>
+			<div class="w3l_about_bottom_grid_right bar-grids">
+				<h6>Html<span> 100% </span>
+</h6>
+				<div class="progress">
+					<div class="progress-bar progress-bar-striped active" style="width: 100%">
+					</div>
+				</div>
+				<div class="mid-bar">
+					<h6>Css<span> 85% </span>
+</h6>
+					<div class="progress">
+						<div class="progress-bar progress-bar-striped active" style="width: 85%">
+						</div>
+					</div>
+				</div>
+				<h6>Java<span>67% </span>
+</h6>
+				<div class="progress">
+					<div class="progress-bar progress-bar-striped active" style="width: 67%">
+					</div>
+				</div>
+			</div>
+</div>	
+			<div class="col-md-7 my-ser-left">
+<div class="white-shadow">
+			 <div class=" col-md-3 col-sm-3 col-xs-3 service-num-left">
+			   <h6>1</h6>
+			   </div>
+			   <div class="col-md-9 col-sm-9 col-xs-9 service-info-left">
+			   <h4>Development</h4>
+			   <p>Lorem ipsum dolor sitamet,consectetuer
+				adipiscing elit.Aenean commodo ligula eget</p>
+			   </div>
+						<div class="clearfix"> </div>
+					</div>
+					<div class="white-shadow">
+			 <div class=" col-md-3 col-sm-3 col-xs-3 service-num-left">
+			   <h6>2</h6>
+			   </div>
+			   <div class="col-md-9 col-sm-9 col-xs-9 service-info-left">
+			   <h4>Typography</h4>
+			   <p>Lorem ipsum dolor sitamet,consectetuer
+				adipiscing elit.Aenean commodo ligula eget</p>
+			   </div>
+						<div class="clearfix"> </div>
+					</div>
+					<div class="white-shadow">
+			 <div class=" col-md-3 col-sm-3 col-xs-3 service-num-left">
+			   <h6>3</h6>
+			   </div>
+			   <div class="col-md-9 col-sm-9 col-xs-9 service-info-left">
+			   <h4>Graphic Design</h4>
+			   <p>Lorem ipsum dolor sitamet,consectetuer
+				adipiscing elit.Aenean commodo ligula eget</p>
+			   </div>
+						<div class="clearfix"> </div>
+					</div>
+<div class="white-shadow">
+			 <div class=" col-md-3 col-sm-3 col-xs-3 service-num-left">
+			   <h6>4</h6>
+			   </div>
+			   <div class="col-md-9 col-sm-9 col-xs-9 service-info-left">
+			   <h4>Adobe Photoshop</h4>
+			   <p>Lorem ipsum dolor sitamet,consectetuer
+				adipiscing elit.Aenean commodo ligula eget</p>
+			   </div>
+						<div class="clearfix"> </div>
+					</div>
+					<div class="clearfix"> </div>
+</div>
+				<div class="clearfix"> </div>
+			</div>
+		</div>
+		</div>
+
+',
+  'preserved_content' => '<div class="services" id="services">
+		<div class="container">
+			<h3 class="title clr">Services</h3>
+						<div class="banner-bottom-girds">
+
+<div class="col-md-5 my-ser-right">
+				<div class="col-md-6 col-sm-6 col-xs-6 stats-grid stats-grid-1">
+					<div class="ser-icone"> 
+					<span class="fa fa-users font" aria-hidden="true">&nbsp;</span>
+				
+					<div class="counter">3500</div>
+					<div class="stat-info-w3ls">
+						<h4>Clients</h4>
+					</div>
+						</div>
+				</div>
+				<div class="col-md-6 col-sm-6 col-xs-6 stats-grid stats-grid-2">
+					<div class="ser-icone clr-green"> 
+					<span class="fa fa-coffee font" aria-hidden="true">&nbsp;</span>
+					<div class="counter">650</div>
+					<div class="stat-info-w3ls">
+						<h4>Coffee</h4>
+					</div>
+					</div>
+				</div>
+				<div class="col-md-6 col-sm-6 col-xs-6 stats-grid stats-grid-3">
+					<div class="ser-icone clr-green">
+					<span class="fa fa-trophy font" aria-hidden="true">&nbsp;</span>
+					
+					<div class="counter">1021</div>
+					<div class="stat-info-w3ls">
+						<h4>Awards</h4>
+					</div>
+					</div>
+				</div>
+				<div class="col-md-6 col-sm-6 col-xs-6 stats-grid stats-grid-4">
+					<div class="ser-icone"> <span class="fa fa-lightbulb-o font" aria-hidden="true">&nbsp;</span>
+					
+					<div class="counter">1010</div>
+					<div class="stat-info-w3ls">
+						<h4>Ideas</h4>
+					</div>
+					</div>
+				</div>
+				<div class="clearfix"></div>
+			<div class="w3l_about_bottom_grid_right bar-grids">
+				<h6>Html<span> 100% </span>
+</h6>
+				<div class="progress">
+					<div class="progress-bar progress-bar-striped active" style="width: 100%">
+					</div>
+				</div>
+				<div class="mid-bar">
+					<h6>Css<span> 85% </span>
+</h6>
+					<div class="progress">
+						<div class="progress-bar progress-bar-striped active" style="width: 85%">
+						</div>
+					</div>
+				</div>
+				<h6>Java<span>67% </span>
+</h6>
+				<div class="progress">
+					<div class="progress-bar progress-bar-striped active" style="width: 67%">
+					</div>
+				</div>
+			</div>
+</div>	
+			<div class="col-md-7 my-ser-left">
+<div class="white-shadow">
+			 <div class=" col-md-3 col-sm-3 col-xs-3 service-num-left">
+			   <h6>1</h6>
+			   </div>
+			   <div class="col-md-9 col-sm-9 col-xs-9 service-info-left">
+			   <h4>Development</h4>
+			   <p>Lorem ipsum dolor sitamet,consectetuer
+				adipiscing elit.Aenean commodo ligula eget</p>
+			   </div>
+						<div class="clearfix"> </div>
+					</div>
+					<div class="white-shadow">
+			 <div class=" col-md-3 col-sm-3 col-xs-3 service-num-left">
+			   <h6>2</h6>
+			   </div>
+			   <div class="col-md-9 col-sm-9 col-xs-9 service-info-left">
+			   <h4>Typography</h4>
+			   <p>Lorem ipsum dolor sitamet,consectetuer
+				adipiscing elit.Aenean commodo ligula eget</p>
+			   </div>
+						<div class="clearfix"> </div>
+					</div>
+					<div class="white-shadow">
+			 <div class=" col-md-3 col-sm-3 col-xs-3 service-num-left">
+			   <h6>3</h6>
+			   </div>
+			   <div class="col-md-9 col-sm-9 col-xs-9 service-info-left">
+			   <h4>Graphic Design</h4>
+			   <p>Lorem ipsum dolor sitamet,consectetuer
+				adipiscing elit.Aenean commodo ligula eget</p>
+			   </div>
+						<div class="clearfix"> </div>
+					</div>
+<div class="white-shadow">
+			 <div class=" col-md-3 col-sm-3 col-xs-3 service-num-left">
+			   <h6>4</h6>
+			   </div>
+			   <div class="col-md-9 col-sm-9 col-xs-9 service-info-left">
+			   <h4>Adobe Photoshop</h4>
+			   <p>Lorem ipsum dolor sitamet,consectetuer
+				adipiscing elit.Aenean commodo ligula eget</p>
+			   </div>
+						<div class="clearfix"> </div>
+					</div>
+					<div class="clearfix"> </div>
+</div>
+				<div class="clearfix"> </div>
+			</div>
+		</div>
+		</div>
+
+',
+  'url_prefix' => '/pc',
+  'phrase_to_replace' => '',
+  'advanced_parameter_value' => 
+  array (
+    0 => '',
+  ),
+  'wrapper_name' => '',
+  '' => '',
+) );
+
+							}
+							else
+							{
+								
+$_76fd2d9aece9c3c22ae2ed836fbaddaf = null;
+
+							}
+							
+							if( Ayoola_Loader::loadClass( 'Ayoola_Page_Editor_Text' ) )
+							{
+								
+$_a5cd7733627d9c5d1eb29d92a82dc0e4 = new Ayoola_Page_Editor_Text( array (
+  'editable' => '
+<div class="experience" id="experience">
+	<div class="container">
+		<div class="education">
+		<div class="col-md-5 education-info">
+		 <h4>education</h4>
+		</div>
+		<div class="col-md-7 education-matter">
+		<div class="edu-right ">
+		<h6>2011-2014</h6>
+		<h5>Bachelor Degree Of Education</h5>
+		<p>Lorem ipsum dolor sit amet,</p>
+		</div>
+		<div class="edu-right back-shadow clr-green">
+				<h6>2011-2014</h6>
+		<h5>Bachelor Degree Of Education</h5>
+		<p>Lorem ipsum dolor sit amet,</p>
+		</div>
+		
+		<div class="edu-right ">
+				<h6>2011-2014</h6>
+		<h5>Bachelor Degree Of Education</h5>
+		<p>Lorem ipsum dolor sit amet,</p>
+		</div>
+		<div class="edu-right back-shadow clr-green">
+				<h6>2011-2014</h6>
+		<h5>Bachelor Degree Of Education</h5>
+		<p>Lorem ipsum dolor sit amet,</p>
+		
+		</div>
+	
+		</div>
+			<div class="clearfix"></div>
+		</div>
+		<div class="experience-info">
+		<div class="col-md-7 exp-matter">
+		<div class="exp-left">
+		<h6>2012-2014</h6>
+		<h5>WebDesigner – Mutation Media</h5>
+		<p>Lorem ipsum dolor sit amet,</p>
+		</div>
+		<div class="exp-left back-shadow clr-green">
+				<h6>2011-2012</h6>
+		<h5>WebDesigner – Mutation Media</h5>
+		<p>Lorem ipsum dolor sit amet,</p>
+		</div>
+		
+		<div class="exp-left">
+				<h6>2009-2011</h6>
+		<h5>WebDesigner – Mutation Media</h5>
+		<p>Lorem ipsum dolor sit amet,</p>
+		</div>
+		<div class="exp-left back-shadow clr-green">
+				<h6>2008-2009</h6>
+		<h5>WebDesigner – Mutation Media</h5>
+		<p>Lorem ipsum dolor sit amet,</p>
+		
+		</div>
+		</div>
+					<div class="col-md-5 exp-info-right">
+		 <h4>experience</h4>
+		</div>
+		<div class="clearfix"></div>
+		</div>
+	</div>
+	</div>
+
+',
+  'preserved_content' => '<div class="experience" id="experience">
+	<div class="container">
+		<div class="education">
+		<div class="col-md-5 education-info">
+		 <h4>education</h4>
+		</div>
+		<div class="col-md-7 education-matter">
+		<div class="edu-right ">
+		<h6>2011-2014</h6>
+		<h5>Bachelor Degree Of Education</h5>
+		<p>Lorem ipsum dolor sit amet,</p>
+		</div>
+		<div class="edu-right back-shadow clr-green">
+				<h6>2011-2014</h6>
+		<h5>Bachelor Degree Of Education</h5>
+		<p>Lorem ipsum dolor sit amet,</p>
+		</div>
+		
+		<div class="edu-right ">
+				<h6>2011-2014</h6>
+		<h5>Bachelor Degree Of Education</h5>
+		<p>Lorem ipsum dolor sit amet,</p>
+		</div>
+		<div class="edu-right back-shadow clr-green">
+				<h6>2011-2014</h6>
+		<h5>Bachelor Degree Of Education</h5>
+		<p>Lorem ipsum dolor sit amet,</p>
+		
+		</div>
+	
+		</div>
+			<div class="clearfix"></div>
+		</div>
+		<div class="experience-info">
+		<div class="col-md-7 exp-matter">
+		<div class="exp-left">
+		<h6>2012-2014</h6>
+		<h5>WebDesigner – Mutation Media</h5>
+		<p>Lorem ipsum dolor sit amet,</p>
+		</div>
+		<div class="exp-left back-shadow clr-green">
+				<h6>2011-2012</h6>
+		<h5>WebDesigner – Mutation Media</h5>
+		<p>Lorem ipsum dolor sit amet,</p>
+		</div>
+		
+		<div class="exp-left">
+				<h6>2009-2011</h6>
+		<h5>WebDesigner – Mutation Media</h5>
+		<p>Lorem ipsum dolor sit amet,</p>
+		</div>
+		<div class="exp-left back-shadow clr-green">
+				<h6>2008-2009</h6>
+		<h5>WebDesigner – Mutation Media</h5>
+		<p>Lorem ipsum dolor sit amet,</p>
+		
+		</div>
+		</div>
+					<div class="col-md-5 exp-info-right">
+		 <h4>experience</h4>
+		</div>
+		<div class="clearfix"></div>
+		</div>
+	</div>
+	</div>
+
+',
+  'url_prefix' => '/pc',
+  'phrase_to_replace' => '',
+  'advanced_parameter_value' => 
+  array (
+    0 => '',
+  ),
+  'wrapper_name' => '',
+  '' => '',
+) );
+
+							}
+							else
+							{
+								
+$_a5cd7733627d9c5d1eb29d92a82dc0e4 = null;
+
+							}
+							
+							if( Ayoola_Loader::loadClass( 'Ayoola_Page_Editor_Text' ) )
+							{
+								
+$_a35a32e164638f80929780e437fe202f = new Ayoola_Page_Editor_Text( array (
+  'editable' => '<div id="gallery" class="gallery">
+	<div class="container">
+			<h3 class="title clr">Portfolio</h3>
+			<div class="gallery-info">
+				<div class="col-md-3 col-sm-6 col-xs-6 gallery-grids">
+					<a href="{{{document_url_cropped}}}{{{0}}}" class="gallery-box" data-lightbox="example-set" data-title="">
+					<img src="{{{document_url_cropped}}}{{{0}}}" alt="" class="img-responsive zoom-img"></a>
+				</div>
+				<div class="col-md-3 col-sm-6 col-xs-6 gallery-grids">
+					<a href="{{{document_url_cropped}}}{{{1}}}" class="gallery-box" data-lightbox="example-set" data-title="">
+					<img src="{{{document_url_cropped}}}{{{1}}}" alt="" class="img-responsive zoom-img"></a>
+				</div>
+				<div class="col-md-3 col-sm-6 col-xs-6 gallery-grids">
+					<a href="{{{document_url_cropped}}}{{{2}}}" class="gallery-box" data-lightbox="example-set" data-title="">
+					<img src="{{{document_url_cropped}}}{{{2}}}" alt="" class="img-responsive zoom-img"></a>
+				</div>
+				<div class="col-md-3 col-sm-6 col-xs-6 gallery-grids">
+					<a href="{{{document_url_cropped}}}{{{3}}}" class="gallery-box" data-lightbox="example-set" data-title="">
+					<img src="{{{document_url_cropped}}}{{{3}}}" alt="" class="img-responsive zoom-img"></a>
+				</div>
+				<div class="col-md-3 col-sm-6 col-xs-6 gallery-grids grid-mdl">
+					<a href="{{{document_url_cropped}}}{{{4}}}" class="gallery-box" data-lightbox="example-set" data-title="">
+					<img src="/{{{document_url_cropped}}}{{{4}}}" alt="" class="img-responsive zoom-img"></a>
+				</div>
+				<div class="col-md-3 col-sm-6 col-xs-6 gallery-grids  grid-mdl">
+					<a href="{{{document_url_cropped}}}{{{5}}}" class="gallery-box" data-lightbox="example-set" data-title="">
+					<img src="{{{document_url_cropped}}}{{{5}}}" alt="" class="img-responsive zoom-img"></a>
+				</div>
+				<div class="col-md-3 col-sm-6 col-xs-6 gallery-grids  grid-mdl">
+					<a href="{{{document_url_cropped}}}{{{6}}}" class="gallery-box" data-lightbox="example-set" data-title="">
+					<img src="{{{document_url_cropped}}}{{{6}}}" alt="" class="img-responsive zoom-img"></a>
+				</div>
+				<div class="col-md-3 col-sm-6 col-xs-6 gallery-grids  grid-mdl">
+					<a href="{{{document_url_cropped}}}{{{7}}}" class="gallery-box" data-lightbox="example-set" data-title="">
+					<img src="{{{document_url_cropped}}}{{{7}}}" alt="" class="img-responsive zoom-img"></a>
+				</div>
+				<div class="col-md-3 col-sm-6 col-xs-6 gallery-grids  grid-mdl">
+					<a href="{{{document_url_cropped}}}{{{8}}}" class="gallery-box" data-lightbox="example-set" data-title="">
+					<img src="{{{document_url_cropped}}}{{{8}}}" alt="" class="img-responsive zoom-img"></a>
+				</div>
+								<div class="col-md-3 col-sm-6 col-xs-6 gallery-grids  grid-mdl">
+					<a href="{{{document_url_cropped}}}{{{9}}}" class="gallery-box" data-lightbox="example-set" data-title="">
+					<img src="{{{document_url_cropped}}}{{{9}}}" alt="" class="img-responsive zoom-img"></a>
+				</div>
+				<div class="col-md-3 col-sm-6 col-xs-6 gallery-grids  grid-mdl">
+					<a href="{{{document_url_cropped}}}{{{10}}}" class="gallery-box" data-lightbox="example-set" data-title="">
+					<img src="{{{document_url_cropped}}}{{{10}}}" alt="" class="img-responsive zoom-img"></a>
+				</div>
+				<div class="col-md-3 col-sm-6 col-xs-6 gallery-grids  grid-mdl">
+					<a href="{{{document_url_cropped}}}{{{11}}}" class="gallery-box" data-lightbox="example-set" data-title="">
+					<img src="{{{document_url_cropped}}}{{{11}}}" alt="" class="img-responsive zoom-img"></a>
+				</div>
+			</div>
+	</div>
+	</div>
+
+',
+  'preserved_content' => '<div id="gallery" class="gallery">
+	<div class="container">
+			<h3 class="title clr">Portfolio</h3>
+			<div class="gallery-info">
+				<div class="col-md-3 col-sm-6 col-xs-6 gallery-grids">
+					<a href="{{{document_url_cropped}}}{{{0}}}" class="gallery-box" data-lightbox="example-set" data-title="">
+					<img src="{{{document_url_cropped}}}{{{0}}}" alt="" class="img-responsive zoom-img"></a>
+				</div>
+				<div class="col-md-3 col-sm-6 col-xs-6 gallery-grids">
+					<a href="{{{document_url_cropped}}}{{{1}}}" class="gallery-box" data-lightbox="example-set" data-title="">
+					<img src="{{{document_url_cropped}}}{{{1}}}" alt="" class="img-responsive zoom-img"></a>
+				</div>
+				<div class="col-md-3 col-sm-6 col-xs-6 gallery-grids">
+					<a href="{{{document_url_cropped}}}{{{2}}}" class="gallery-box" data-lightbox="example-set" data-title="">
+					<img src="{{{document_url_cropped}}}{{{2}}}" alt="" class="img-responsive zoom-img"></a>
+				</div>
+				<div class="col-md-3 col-sm-6 col-xs-6 gallery-grids">
+					<a href="{{{document_url_cropped}}}{{{3}}}" class="gallery-box" data-lightbox="example-set" data-title="">
+					<img src="{{{document_url_cropped}}}{{{3}}}" alt="" class="img-responsive zoom-img"></a>
+				</div>
+				<div class="col-md-3 col-sm-6 col-xs-6 gallery-grids grid-mdl">
+					<a href="{{{document_url_cropped}}}{{{4}}}" class="gallery-box" data-lightbox="example-set" data-title="">
+					<img src="/{{{document_url_cropped}}}{{{4}}}" alt="" class="img-responsive zoom-img"></a>
+				</div>
+				<div class="col-md-3 col-sm-6 col-xs-6 gallery-grids  grid-mdl">
+					<a href="{{{document_url_cropped}}}{{{5}}}" class="gallery-box" data-lightbox="example-set" data-title="">
+					<img src="{{{document_url_cropped}}}{{{5}}}" alt="" class="img-responsive zoom-img"></a>
+				</div>
+				<div class="col-md-3 col-sm-6 col-xs-6 gallery-grids  grid-mdl">
+					<a href="{{{document_url_cropped}}}{{{6}}}" class="gallery-box" data-lightbox="example-set" data-title="">
+					<img src="{{{document_url_cropped}}}{{{6}}}" alt="" class="img-responsive zoom-img"></a>
+				</div>
+				<div class="col-md-3 col-sm-6 col-xs-6 gallery-grids  grid-mdl">
+					<a href="{{{document_url_cropped}}}{{{7}}}" class="gallery-box" data-lightbox="example-set" data-title="">
+					<img src="{{{document_url_cropped}}}{{{7}}}" alt="" class="img-responsive zoom-img"></a>
+				</div>
+				<div class="col-md-3 col-sm-6 col-xs-6 gallery-grids  grid-mdl">
+					<a href="{{{document_url_cropped}}}{{{8}}}" class="gallery-box" data-lightbox="example-set" data-title="">
+					<img src="{{{document_url_cropped}}}{{{8}}}" alt="" class="img-responsive zoom-img"></a>
+				</div>
+								<div class="col-md-3 col-sm-6 col-xs-6 gallery-grids  grid-mdl">
+					<a href="{{{document_url_cropped}}}{{{9}}}" class="gallery-box" data-lightbox="example-set" data-title="">
+					<img src="{{{document_url_cropped}}}{{{9}}}" alt="" class="img-responsive zoom-img"></a>
+				</div>
+				<div class="col-md-3 col-sm-6 col-xs-6 gallery-grids  grid-mdl">
+					<a href="{{{document_url_cropped}}}{{{10}}}" class="gallery-box" data-lightbox="example-set" data-title="">
+					<img src="{{{document_url_cropped}}}{{{10}}}" alt="" class="img-responsive zoom-img"></a>
+				</div>
+				<div class="col-md-3 col-sm-6 col-xs-6 gallery-grids  grid-mdl">
+					<a href="{{{document_url_cropped}}}{{{11}}}" class="gallery-box" data-lightbox="example-set" data-title="">
+					<img src="{{{document_url_cropped}}}{{{11}}}" alt="" class="img-responsive zoom-img"></a>
+				</div>
+			</div>
+	</div>
+	</div>
+
+',
+  'url_prefix' => '/pc',
+  'markup_template_object_name' => 
+  array (
+    0 => 'Application_Article_ShowAll',
+  ),
+  'phrase_to_replace' => '',
+  'text_widget_options' => 
+  array (
+    0 => 'preserve_content',
+  ),
+  'advanced_parameter_value' => 
+  array (
+    0 => 'portfolio',
+    1 => '424',
+    2 => '640',
+  ),
+  'wrapper_name' => '',
+  'article_types' => 'portfolio',
+  'cover_photo_height' => '424',
+  'cover_photo_width' => '640',
+) );
+
+							}
+							else
+							{
+								
+$_a35a32e164638f80929780e437fe202f = null;
+
+							}
+							
+							if( Ayoola_Loader::loadClass( 'Ayoola_Page_Editor_Text' ) )
+							{
+								
+$_1603f56f1a7ea6112387a062dcdd84ff = new Ayoola_Page_Editor_Text( array (
+  'codes' => '<div class="contact" id="contact">
+		<div class="container">
+			<h3 class="title">Contact</h3>
+						<div class="contact-us">
+				<form action="/pc/widgets/PageCarton_Contact_Form" method="post">
+					<div class="col-md-6 col-sm-6 col-xs-6 styled-input">
+						<input type="text" name="contactus_firstname" placeholder="Name" required="">
+</div>
+
+					<div class="col-md-6 col-sm-6 col-xs-6 styled-input">
+						<input type="email" name="contactus_mail" placeholder="Email" required="">
+</div>
+
+	<div class="col-md-6 col-sm-6 col-xs-6 styled-input">
+
+						<input type="text" value="Subject - Contact Form" name="contactus_subject" placeholder="phone" required="">
+</div>
+					<div class="col-md-6 col-sm-6 col-xs-6 styled-input">
+
+						<input type="text" name="contactus_phone_number" placeholder="phone" required="">
+</div>
+					<div class="clearfix"> </div>
+					<div class="styled-input">
+
+						<textarea name="contactus_message" placeholder="Message" required=""></textarea>
+</div>
+					<div>
+						<div class="click">
+							<input type="submit" value="SEND">
+</div>
+					</div>
+				</form>
+			</div>
+			<div class="clearfix"> </div>
+			<div class=" col-md-8 col-sm-8 col-xs-7 contact-map">
+				<div class="map-grid">
+					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3023.948805392833!2d-73.99619098458929!3d40.71914347933105!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a27e2f24131%3A0x64ffc98d24069f02!2sCANADA!5e0!3m2!1sen!2sin!4v1479793484055"></iframe>
+
+				</div>
+			</div>
+
+			<div class=" col-md-4 col-sm-4 col-xs-5 contact-icons">
+				<div class="footer_grid_left">
+					<h5>Address</h5>
+					<p>2, Ajanlekoko Street, Ibadan,<span> Oyo State,100002,
+					NIGERIA</span></p>
+				</div>
+				<div class="footer_grid_left">
+					<h5> Contact</h5>
+					<p>+(000) 123 4565 32 <span>+(010) 123 4565 35</span></p>
+				</div>
+				<div class="footer_grid_left">
+					<h5>Email</h5>
+					<p><a href="mailto:info@example.com">mail@example1.com</a>
+					<span><a href="mailto:info@example.com">mail@example2.com</a></span></p>
+				</div>
+
+			</div>
+			<div class="clearfix"> </div>
+
+
+
+		
+		</div>
+	</div>
+
+',
+  'preserved_content' => '',
+  'url_prefix' => '/pc',
+  'phrase_to_replace' => '',
+  'advanced_parameter_value' => 
+  array (
+    0 => '',
+  ),
+  'wrapper_name' => '',
+  '' => '',
+) );
+
+							}
+							else
+							{
+								
+$_1603f56f1a7ea6112387a062dcdd84ff = null;
+
+							}
+							

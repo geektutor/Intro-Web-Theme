@@ -1,0 +1,426 @@
+<?php
+/**
+* PageCarton Page Generator
+*
+* LICENSE
+*
+* @category PageCarton
+* @package /
+* @generated Ayoola_Page_Editor_Layout
+* @copyright  Copyright (c) PageCarton. (http://www.PageCarton.com)
+* @license    http://www.PageCarton.com/license.txt
+* @version $Id: includes.php	Saturday 23rd of June 2018 06:56:38 AM	sodiq.akinjobi@gmail.com $ 
+*/
+//	Template Content ?>
+
+						<?php 
+						//		var_export( array_pop( explode( PC_BASE, Ayoola_Application::getDomainSettings( APPLICATION_PATH ) ) ) );
+					//			var_export( __FILE__ );
+					//			var_export( CACHE_DIR );
+					//			var_export( stripos( __FILE__, Ayoola_Application::getDomainSettings( APPLICATION_DIR ) ) );
+								//	ADDED TO CHECK WITH CACHE_DIR TOO BECAUSE OF EDITING THEME PAGES
+								//	THEY WON'T HAVE CORRECT APPDIR
+//								var_export( stripos( __FILE__,CACHE_DIR ) );
+			//					var_export( Ayoola_Application::getDomainSettings( APPLICATION_DIR ) );
+			//					var_export( Ayoola_Application::getDomainSettings() );
+							if
+							( 
+
+								$x_1529736998 = Ayoola_Filter_LayoutIdToPath::getThemeIncludeFile( 'pc_layout_introwebtheme', stripos( __FILE__, Ayoola_Application::getDomainSettings( APPLICATION_DIR ) ) !== false || stripos( __FILE__,CACHE_DIR ) !== false ? array( 'prioritize_my_copy' => true ) : array( 'path_blacklist' => array_pop( explode( PC_BASE, Ayoola_Application::getDomainSettings( APPLICATION_PATH ) ) ) ) ) 
+							)
+							{
+							//	var_export( $x_1529736998 );
+							//	echo file_get_contents( $x_1529736998 );
+								include_once $x_1529736998;
+							}
+		//					var_export( $x_1529736998 );
+						?>
+						 <?php
+/**
+* PageCarton Page Generator
+*
+* LICENSE
+*
+* @category PageCarton
+* @package /layout/pc_layout_introwebtheme/template
+* @generated Ayoola_Page_Editor_Layout
+* @copyright  Copyright (c) PageCarton. (http://www.PageCarton.com)
+* @license    http://www.PageCarton.com/license.txt
+* @version $Id: template.php	Saturday 23rd of June 2018 06:53:27 AM	sodiq.akinjobi@gmail.com $ 
+*/
+//	Template Content ?>
+<!DOCTYPE html>
+<!--A Design by W3layouts
+Author: W3layout
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+--><html lang="zxx">
+<head>
+<?php include_once( LAYOUT_PATH . DS . 'htmlHeader' . TPL ) ?>
+<!--meta tags --><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script>
+		addEventListener("load", function () {
+			setTimeout(hideURLbar, 0);
+		}, false);
+
+		function hideURLbar() {
+			window.scrollTo(0, 1);
+		}
+	</script><!--//meta tags ends here--><!--booststrap--><link href="<?php echo Ayoola_Application::getUrlPrefix(); ?>/layout/pc_layout_introwebtheme/css/bootstrap.css" rel="stylesheet" type="text/css" media="all">
+<!--//booststrap end--><!-- font-awesome icons --><link href="<?php echo Ayoola_Application::getUrlPrefix(); ?>/layout/pc_layout_introwebtheme/css/font-awesome.css" rel="stylesheet">
+<!-- //font-awesome icons --><!-- Nav-CSS --><link href="<?php echo Ayoola_Application::getUrlPrefix(); ?>/layout/pc_layout_introwebtheme/css/nav.css" rel="stylesheet" type="text/css" media="all">
+<script src="<?php echo Ayoola_Application::getUrlPrefix(); ?>/layout/pc_layout_introwebtheme/js/modernizr.custom.js"></script><!-- //Nav-CSS --><link rel="stylesheet" href="<?php echo Ayoola_Application::getUrlPrefix(); ?>/layout/pc_layout_introwebtheme/css/lightbox.css">
+<!--gallery--><!--stylesheets--><link href="<?php echo Ayoola_Application::getUrlPrefix(); ?>/layout/pc_layout_introwebtheme/css/style.css" rel="stylesheet" type="text/css" media="all">
+<!--//stylesheets--><link href="//fonts.googleapis.com/css?family=Montserrat:300,400,500" rel="stylesheet">
+</head>
+<body data-pc-section-name="body">
+<?php include_once( LAYOUT_PATH . DS . 'header' . TPL ) ?>
+<!-- navigation section -->
+	
+<?php
+//pc_body_1 Begins Here
+
+echo ( ! empty( $_42387b4b45b6b503670b864ecc34cf6b ) &&  is_object( $_42387b4b45b6b503670b864ecc34cf6b ) ? Ayoola_Object_Wrapper_Abstract::wrap( $_42387b4b45b6b503670b864ecc34cf6b->view(), '' ) : null );
+
+//pc_body_1 Ends Here
+?><?php
+//pc_body_1 Begins Here
+
+//pc_body_1 Ends Here
+?>
+
+
+<?php
+//oneness Begins Here
+
+//oneness Ends Here
+?><?php
+//oneness Begins Here
+
+//oneness Ends Here
+?><section data-pc-all-sections="1" class="container">	
+									<div class="">
+										<div class="row">
+											<div class="pc_page_layout_grid col-md-12 12u">
+												<?php
+//middlebar Begins Here
+
+//middlebar Ends Here
+?><?php
+//middlebar Begins Here
+
+//middlebar Ends Here
+?>
+										   </div>
+										</div> 
+										<div class="row">
+											<div class="pc_page_layout_grid col-sm-6 6u 6u$(medium) 12u$(xsmall) 12u$(mobile)">
+												<?php
+//twosome1 Begins Here
+
+//twosome1 Ends Here
+?><?php
+//twosome1 Begins Here
+
+//twosome1 Ends Here
+?>
+											</div>
+											<div class="pc_page_layout_grid col-sm-6 6u 6u$(medium) 12u$(xsmall) 12u$(mobile)">
+												<?php
+//twosome2 Begins Here
+
+//twosome2 Ends Here
+?><?php
+//twosome2 Begins Here
+
+//twosome2 Ends Here
+?>
+											</div> 
+										</div> 
+										<div class="row">
+											<div class="pc_page_layout_grid col-sm-4 4u 12u$(medium) 12u$(xsmall) 12u$(mobile)"> 
+												<?php
+//threesome1 Begins Here
+
+//threesome1 Ends Here
+?><?php
+//threesome1 Begins Here
+
+//threesome1 Ends Here
+?>
+										   </div>
+											<div class="pc_page_layout_grid col-sm-4 4u 12u$(medium) 12u$(xsmall) 12u$(mobile)">
+												<?php
+//threesome2 Begins Here
+
+//threesome2 Ends Here
+?><?php
+//threesome2 Begins Here
+
+//threesome2 Ends Here
+?>
+											</div> 
+											<div class="pc_page_layout_grid col-sm-4 4u 12u$(medium) 12u$(xsmall) 12u$(mobile)">
+												<?php
+//threesome3 Begins Here
+
+//threesome3 Ends Here
+?><?php
+//threesome3 Begins Here
+
+//threesome3 Ends Here
+?>
+											</div> 
+										</div> 
+										<div class="row">
+											<div class="pc_page_layout_grid col-sm-3 3u 6u$(medium) 12u$(xsmall) 12u$(mobile)">
+												<?php
+//foursome1 Begins Here
+
+//foursome1 Ends Here
+?><?php
+//foursome1 Begins Here
+
+//foursome1 Ends Here
+?>
+										   </div>
+											<div class="pc_page_layout_grid col-sm-3 3u 6u$(medium) 12u$(xsmall) 12u$(mobile)">
+												<?php
+//foursome2 Begins Here
+
+//foursome2 Ends Here
+?><?php
+//foursome2 Begins Here
+
+//foursome2 Ends Here
+?>
+											</div> 
+											<div class="pc_page_layout_grid col-sm-3 3u 6u(medium) 12u$(xsmall) 12u$(mobile)">
+												<?php
+//foursome3 Begins Here
+
+//foursome3 Ends Here
+?><?php
+//foursome3 Begins Here
+
+//foursome3 Ends Here
+?>
+											</div> 
+											<div class="pc_page_layout_grid col-sm-3 3u 6u$(medium) 12u$(xsmall) 12u$(mobile)">    
+												<?php
+//foursome4 Begins Here
+
+//foursome4 Ends Here
+?><?php
+//foursome4 Begins Here
+
+//foursome4 Ends Here
+?>
+											</div> 
+										</div> 
+										<div class="row">
+											<div class="pc_page_layout_grid col-sm-4 4u 12u$(medium) 12u$(xsmall) 12u$(mobile)">
+												<?php
+//leftbar Begins Here
+
+//leftbar Ends Here
+?><?php
+//leftbar Begins Here
+
+//leftbar Ends Here
+?>
+										   </div>
+											<div class="pc_page_layout_grid col-sm-8 8u 12u$(medium) 12u$(xsmall) 12u$(mobile)">
+												<?php
+//leftbarright Begins Here
+
+//leftbarright Ends Here
+?><?php
+//leftbarright Begins Here
+
+//leftbarright Ends Here
+?>
+											</div> 
+										</div> 
+										<div class="row">
+											<div class="pc_page_layout_grid col-sm-8 8u 12u$(medium) 12u$(xsmall) 12u$(mobile)">
+												<?php
+//rightbarleft Begins Here
+
+//rightbarleft Ends Here
+?><?php
+//rightbarleft Begins Here
+
+//rightbarleft Ends Here
+?>
+											</div> 
+											<div class="pc_page_layout_grid col-sm-4 4u 12u$(medium) 12u$(xsmall) 12u$(mobile)">
+												<?php
+//rightbar Begins Here
+
+//rightbar Ends Here
+?><?php
+//rightbar Begins Here
+
+//rightbar Ends Here
+?>
+											</div>   
+										</div> 
+									</div> 
+								</section><?php
+//lastoneness Begins Here
+
+//lastoneness Ends Here
+?><?php
+//lastoneness Begins Here
+
+//lastoneness Ends Here
+?>
+<!-- //banner -->
+<!--about -->
+	
+<?php
+//about Begins Here
+
+//about Ends Here
+?><?php
+//about Begins Here
+
+echo ( ! empty( $_620c627ce3b04be196bff84294047b21 ) &&  is_object( $_620c627ce3b04be196bff84294047b21 ) ? Ayoola_Object_Wrapper_Abstract::wrap( $_620c627ce3b04be196bff84294047b21->view(), '' ) : null );
+
+//about Ends Here
+?>
+
+
+
+<!--//about -->
+		
+<?php
+//services Begins Here
+
+//services Ends Here
+?><?php
+//services Begins Here
+
+echo ( ! empty( $_76fd2d9aece9c3c22ae2ed836fbaddaf ) &&  is_object( $_76fd2d9aece9c3c22ae2ed836fbaddaf ) ? Ayoola_Object_Wrapper_Abstract::wrap( $_76fd2d9aece9c3c22ae2ed836fbaddaf->view(), '' ) : null );
+
+//services Ends Here
+?>
+
+
+
+				<!--// services-->
+
+<?php
+//experience Begins Here
+
+//experience Ends Here
+?><?php
+//experience Begins Here
+
+echo ( ! empty( $_a5cd7733627d9c5d1eb29d92a82dc0e4 ) &&  is_object( $_a5cd7733627d9c5d1eb29d92a82dc0e4 ) ? Ayoola_Object_Wrapper_Abstract::wrap( $_a5cd7733627d9c5d1eb29d92a82dc0e4->view(), '' ) : null );
+
+//experience Ends Here
+?>
+
+
+
+<!-- gallery-->
+	
+<?php
+//gallery Begins Here
+
+//gallery Ends Here
+?><?php
+//gallery Begins Here
+
+echo ( ! empty( $_a35a32e164638f80929780e437fe202f ) &&  is_object( $_a35a32e164638f80929780e437fe202f ) ? Ayoola_Object_Wrapper_Abstract::wrap( $_a35a32e164638f80929780e437fe202f->view(), '' ) : null );
+
+//gallery Ends Here
+?>
+
+
+
+	<!-- //gallery-->
+<!--contact-->
+	
+<?php
+//contact Begins Here
+
+//contact Ends Here
+?><?php
+//contact Begins Here
+
+echo ( ! empty( $_1603f56f1a7ea6112387a062dcdd84ff ) &&  is_object( $_1603f56f1a7ea6112387a062dcdd84ff ) ? Ayoola_Object_Wrapper_Abstract::wrap( $_1603f56f1a7ea6112387a062dcdd84ff->view(), '' ) : null );
+
+//contact Ends Here
+?>
+
+
+
+
+
+<?php
+//pc_body_7 Begins Here
+
+echo ( ! empty( $_c7227b6afc6226343ec396a3e8afcca2 ) &&  is_object( $_c7227b6afc6226343ec396a3e8afcca2 ) ? Ayoola_Object_Wrapper_Abstract::wrap( $_c7227b6afc6226343ec396a3e8afcca2->view(), '' ) : null );
+
+//pc_body_7 Ends Here
+?><?php
+//pc_body_7 Begins Here
+
+//pc_body_7 Ends Here
+?>
+
+
+<!--js working--><script src="<?php echo Ayoola_Application::getUrlPrefix(); ?>/layout/pc_layout_introwebtheme/js/jquery-2.2.3.min.js"></script><script src="<?php echo Ayoola_Application::getUrlPrefix(); ?>/layout/pc_layout_introwebtheme/js/bootstrap.js"></script><!--//js working--><!--nav menu--><script src="<?php echo Ayoola_Application::getUrlPrefix(); ?>/layout/pc_layout_introwebtheme/js/classie.js"></script><script src="<?php echo Ayoola_Application::getUrlPrefix(); ?>/layout/pc_layout_introwebtheme/js/demo1.js"></script><!-- //nav menu--><!-- gallery --><script src="<?php echo Ayoola_Application::getUrlPrefix(); ?>/layout/pc_layout_introwebtheme/js/lightbox-plus-jquery.min.js"></script><!-- //gallery --><!--banner--><script src="<?php echo Ayoola_Application::getUrlPrefix(); ?>/layout/pc_layout_introwebtheme/js/responsiveslides.min.js"></script><script>
+		// You can also use "$(window).load(function() {"
+		$(function () {
+			// Slideshow 4
+			$("#slider4").responsiveSlides({
+				auto: true,
+				pager: false,
+				nav: true,
+				speed: 900,
+				namespace: "callbacks",
+				before: function () {
+					$('.events').append("<li>before event fired.");
+				},
+				after: function () {
+					$('.events').append("<li>after event fired.");
+				}
+			});
+
+		});
+	</script><!--// banner--><!-- OnScroll-Number-Increase-JavaScript --><script src="<?php echo Ayoola_Application::getUrlPrefix(); ?>/layout/pc_layout_introwebtheme/js/jquery.waypoints.min.js"></script><script src="<?php echo Ayoola_Application::getUrlPrefix(); ?>/layout/pc_layout_introwebtheme/js/jquery.countup.js"></script><script>
+		$('.counter').countUp();
+	</script><!-- //OnScroll-Number-Increase-JavaScript --><!-- start-smoth-scrolling --><script src="<?php echo Ayoola_Application::getUrlPrefix(); ?>/layout/pc_layout_introwebtheme/js/move-top.js"></script><script src="<?php echo Ayoola_Application::getUrlPrefix(); ?>/layout/pc_layout_introwebtheme/js/easing.js"></script><script>
+		jQuery(document).ready(function ($) {
+			$(".scroll").click(function (event) {
+				event.preventDefault();
+				$('html,body').animate({
+					scrollTop: $(this.hash).offset().top
+				}, 900);
+			});
+		});
+	</script><!-- start-smoth-scrolling --><!-- here stars scrolling icon --><script>
+		$(document).ready(function () {
+
+			var defaults = {
+				containerID: 'toTop', // fading element id
+				containerHoverID: 'toTopHover', // fading element hover id
+				scrollSpeed: 1200,
+				easingType: 'linear'
+			};
+
+
+			$().UItoTop({
+				easingType: 'easeOutQuart'
+			});
+
+		});
+	</script><!-- //here ends scrolling icon --><?php include_once( LAYOUT_PATH . DS . 'footerJs' . TPL ) ?><?php include_once( LAYOUT_PATH . DS . 'footer' . TPL ) ?>
+</body>
+</html>
