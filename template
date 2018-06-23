@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<!--A Design by W3layouts
-Author: W3layout
-Author URL: http://w3layouts.com
+<!--A Design by Geektutor
+Author: Geektutor
+Author URL: http://adresocial.com
 License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
 --><html lang="zxx">
@@ -50,7 +50,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<li><a href="#about" class="scroll">About</a></li>
 					<li><a href="#services" class="scroll">Services</a></li>
 					<li><a href="#experience" class="scroll">Qualification</a></li>
-					<li><a href="#gallery" class="scroll">Gallery</a></li>
+					<li><a href="#gallery" class="scroll">Portfolio</a></li>
 					<li><a href="#contact" class="scroll">Contact</a></li>
 					
 				</ul></nav>
@@ -72,7 +72,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						<div class="slider-img">
 							<div class="container">
 								<div class="slider-info">
-									<h4>I am Kelly Jhon 
+									<h4>I am Aja Lekoko 
 										</h4>
 									<p>Web Design</p>
 
@@ -207,7 +207,7 @@ pc_body_1@@@}
 					</ul>
 </div>
 
-		<p>&copy; 2018 Intro. All Rights Reserved | Design by <a href="http://w3layouts.com/" target="_blank"> W3layouts </a></p>
+		<p>&copy; 2018 Intro. All Rights Reserved | Design by <a href="http://adresocial.com/" target="_blank"> AdreSocial </a></p>
 	</footer>
 pc_body_7@@@}
 <!--js working--><script src="<?php echo Ayoola_Application::getUrlPrefix(); ?>/layout/pc_layout_introwebtheme/js/jquery-2.2.3.min.js"></script><script src="<?php echo Ayoola_Application::getUrlPrefix(); ?>/layout/pc_layout_introwebtheme/js/bootstrap.js"></script><!--//js working--><!--nav menu--><script src="<?php echo Ayoola_Application::getUrlPrefix(); ?>/layout/pc_layout_introwebtheme/js/classie.js"></script><script src="<?php echo Ayoola_Application::getUrlPrefix(); ?>/layout/pc_layout_introwebtheme/js/demo1.js"></script><!-- //nav menu--><!-- gallery --><script src="<?php echo Ayoola_Application::getUrlPrefix(); ?>/layout/pc_layout_introwebtheme/js/lightbox-plus-jquery.min.js"></script><!-- //gallery --><!--banner--><script src="<?php echo Ayoola_Application::getUrlPrefix(); ?>/layout/pc_layout_introwebtheme/js/responsiveslides.min.js"></script><script>

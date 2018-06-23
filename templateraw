@@ -1,6 +1,6 @@
-<!--A Design by W3layouts
-Author: W3layout
-Author URL: http://w3layouts.com
+<!--A Design by Geektutor
+Author: Geektutor
+Author URL: http://adresocial.com
 License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
 -->
@@ -8,7 +8,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <html lang="zxx">
 
 <head>
-	<title>Intro a Personal Category bootstrap Responsive website Template | Home :: w3layouts</title>
+	<title>Intro a Personal Category bootstrap Responsive website Template | Home :: AdreSocial</title>
 
 	<!--meta tags -->
 	<meta charset="UTF-8">
@@ -90,7 +90,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<div class="slider-img">
 							<div class="container">
 								<div class="slider-info">
-									<h4>I am Kelly Jhon 
+									<h4>I am Aja Lekoko 
 										</h4>
 									<p>Web Design</p>
 
@@ -127,7 +127,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="col-md-7 about-right">
 				<div class="about-me">
-				<h2>Kelly Jhon </h2>
+				<h2>Aja Lekoko </h2>
 				<h4>Web Design & Web Developer</h4>
 				</div>
 				<div class="w3layouts_more-buttn">
@@ -158,7 +158,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 										<li>
 							<ul class="address-text ">
 								<li><b>Name </b></li>
-								<li>:Kelly Jhon</li>
+								<li>:Aja Lekoko</li>
 							</ul>
 						</li>
 						<li>
@@ -572,7 +572,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</ul>
 				</div>
 
-		<p>© 2018 Intro. All Rights Reserved | Design by <a href="http://w3layouts.com/" target="_blank"> W3layouts </a></p>
+		<p>© 2018 Intro. All Rights Reserved | Design by <a href="http://adresocial.com/" target="_blank"> AdreSocial </a></p>
 	</footer>
 	<!--js working-->
 	<script src='js/jquery-2.2.3.min.js'></script>
